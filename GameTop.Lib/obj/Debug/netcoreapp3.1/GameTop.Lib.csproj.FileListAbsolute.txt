@@ -1,0 +1,12 @@
+D:\ADM\Projetos_DotNet_Core\GameTop.Lib\bin\Debug\netcoreapp3.1\GameTop.Lib.deps.json
+D:\ADM\Projetos_DotNet_Core\GameTop.Lib\bin\Debug\netcoreapp3.1\GameTop.Lib.dll
+D:\ADM\Projetos_DotNet_Core\GameTop.Lib\bin\Debug\netcoreapp3.1\GameTop.Lib.pdb
+D:\ADM\Projetos_DotNet_Core\GameTop.Lib\bin\Debug\netcoreapp3.1\GameTop.Interfaces.dll
+D:\ADM\Projetos_DotNet_Core\GameTop.Lib\bin\Debug\netcoreapp3.1\GameTop.Interfaces.pdb
+D:\ADM\Projetos_DotNet_Core\GameTop.Lib\obj\Debug\netcoreapp3.1\GameTop.Lib.csprojAssemblyReference.cache
+D:\ADM\Projetos_DotNet_Core\GameTop.Lib\obj\Debug\netcoreapp3.1\GameTop.Lib.AssemblyInfoInputs.cache
+D:\ADM\Projetos_DotNet_Core\GameTop.Lib\obj\Debug\netcoreapp3.1\GameTop.Lib.AssemblyInfo.cs
+D:\ADM\Projetos_DotNet_Core\GameTop.Lib\obj\Debug\netcoreapp3.1\GameTop.Lib.csproj.CoreCompileInputs.cache
+D:\ADM\Projetos_DotNet_Core\GameTop.Lib\obj\Debug\netcoreapp3.1\GameTop.Lib.csproj.CopyComplete
+D:\ADM\Projetos_DotNet_Core\GameTop.Lib\obj\Debug\netcoreapp3.1\GameTop.Lib.dll
+D:\ADM\Projetos_DotNet_Core\GameTop.Lib\obj\Debug\netcoreapp3.1\GameTop.Lib.pdb

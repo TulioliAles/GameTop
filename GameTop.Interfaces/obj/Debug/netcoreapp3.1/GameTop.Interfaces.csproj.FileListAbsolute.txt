@@ -1,0 +1,9 @@
+D:\ADM\Projetos_DotNet_Core\GameTop.Interfaces\bin\Debug\netcoreapp3.1\GameTop.Interfaces.deps.json
+D:\ADM\Projetos_DotNet_Core\GameTop.Interfaces\bin\Debug\netcoreapp3.1\GameTop.Interfaces.dll
+D:\ADM\Projetos_DotNet_Core\GameTop.Interfaces\bin\Debug\netcoreapp3.1\GameTop.Interfaces.pdb
+D:\ADM\Projetos_DotNet_Core\GameTop.Interfaces\obj\Debug\netcoreapp3.1\GameTop.Interfaces.csprojAssemblyReference.cache
+D:\ADM\Projetos_DotNet_Core\GameTop.Interfaces\obj\Debug\netcoreapp3.1\GameTop.Interfaces.AssemblyInfoInputs.cache
+D:\ADM\Projetos_DotNet_Core\GameTop.Interfaces\obj\Debug\netcoreapp3.1\GameTop.Interfaces.AssemblyInfo.cs
+D:\ADM\Projetos_DotNet_Core\GameTop.Interfaces\obj\Debug\netcoreapp3.1\GameTop.Interfaces.csproj.CoreCompileInputs.cache
+D:\ADM\Projetos_DotNet_Core\GameTop.Interfaces\obj\Debug\netcoreapp3.1\GameTop.Interfaces.dll
+D:\ADM\Projetos_DotNet_Core\GameTop.Interfaces\obj\Debug\netcoreapp3.1\GameTop.Interfaces.pdb

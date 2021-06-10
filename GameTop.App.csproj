@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\GameTop.Interfaces\GameTop.Interfaces.csproj" />
+    <ProjectReference Include="..\..\GameTop.Lib\GameTop.Lib.csproj" />
+  </ItemGroup>
+
+</Project>
